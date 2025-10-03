@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Epunda+Slab:ital,wght@0,300;0,400;700;1,300;1,400;1,700&display=swap');
+
+@theme {
+  --font-epunda: "Epunda Slab", serif;
+}
+@layer{
+  .imgemote{
+    transform: translateY(-5200px);
+  }
+}
