@@ -38,8 +38,8 @@ function goToSection(index) {
 
     img.classList.remove("opacity-100");
     underimg.classList.remove("opacity-100");
-    hookvision.classList.remove("opacity-0");
-    hookvision.classList.add("opacity-100");
+    hookvision.classList.remove("md:opacity-0");
+    // hookvision.classList.add("opacity-100");
 
     setTimeout(() => {
       hookvision.classList.remove("translate-y-[100vh]");
