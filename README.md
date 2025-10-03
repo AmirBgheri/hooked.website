@@ -1,7 +1,7 @@
 
-# <Project Name>
+# <hooked.io>
 <a href="https://amirbgheri.github.io/hooked.website/">link demo</a>
-A modern web project built with **HTML, CSS, and JavaScript**.  
+A modern web project built with **HTML, tailwind, and JavaScript**.  
 It includes interactive animations, responsive design, and components like charts, sliders, and cards.
 
 ---
